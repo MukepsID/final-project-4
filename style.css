@@ -31,6 +31,8 @@ button {
     height: 2.5em;
     width: 2.5em;
     transition: 0.2s ease-in-out;
+    background-color: #555555d5;
+    color: white;
 }
 
 button:hover{
@@ -42,6 +44,8 @@ input.search-bar {
     border: none;
     outline: none;
     padding: 0.5em 1em;
+    background-color: #555555d5;
+    color: white;
 }
 
 .description {
